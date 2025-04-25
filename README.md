@@ -12,9 +12,7 @@ Using **Power BI, DAX Functions, and Power Query**, organizations can visualize 
 
 # Healthcare Analytics Dashboard
 
-### Dashboard Link : 
 
-**https://app.powerbi.com/groups/me/reports/6798e87c-11ef-4efd-9241-aee0799e1316/9a213e260d02260ed8b7?experience=power-bi**
 
 ## Problem Statement
 
@@ -55,7 +53,7 @@ d. Referral Percentage = DIVIDE(CALCULATE(COUNT([PatientID]), [Referred] = "Yes"
 **Visual Enhancements**: Applied themes, colors, and labels to make the dashboard intuitive and visually appealing.
 
 
-# Report Snapshot (Power BI DESKTOP)
+
 ![image](https://github.com/MithilKothari/HealthCare-Analytics-Dashboard/assets/156261969/18b0f9cd-56a4-4c17-890f-fef1e2266bcd)
 
 
